@@ -4,6 +4,10 @@
 
 A macOS menu bar app that watches your listening TCP ports and reminds you about the dev servers you forgot to kill.
 
+<p align="center">
+  <img src="docs/screenshot.png" width="446" alt="Vigie popover — listening ports with 🤖 Claude Code badges, exposure warning and one-click kill">
+</p>
+
 Built for the AI-coding era: agents like Claude Code or Cursor happily spawn `npm run dev`, `uvicorn`, `vite` — and nobody remembers to stop them. Vigie tells you **what's listening, who launched it, and since when**, and lets you kill it in one click.
 
 ## Features
